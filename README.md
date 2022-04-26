@@ -7,3 +7,4 @@ This is the main repository for all of the projects in the course.
 |  #  | Project                                                                                                                     | Live Repo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/alejandroszg/01-expanding-cards)                             | [Live Demo](https://alejandroszg.github.io/01-expanding-cards/)               |
+| 02  | [Progress Steps](https://github.com/alejandroszg/02-progress-steps)                             | [Live Demo](https://alejandroszg.github.io/02-progress-steps/)               |
